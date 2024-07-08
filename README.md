@@ -32,11 +32,11 @@ Check the code here:
 ## 3. Create list of skills and list of positions
 In this stage of the workflow, job listings are processed to extract, categorize, and assign relevant attributes for deeper analysis and visualization. This includes:
 
-    3.1 Skills_for_Positions: Extracting specific skills from job descriptions. This part involves parsing job ads to identify and list distinct skills mentioned, using a predefined list of skills to standardize and optimize the matching process.
+3.1 Skills_for_Positions: Extracting specific skills from job descriptions. This part involves parsing job ads to identify and list distinct skills mentioned, using a predefined list of skills to standardize and optimize the matching process.
 
-    3.2 Jobs_Categorization: Categorizing jobs into specific roles based on keywords in the job titles. This helps in classifying jobs into roles such as Fullstack Developer, Backend Developer, etc., based on the presence of key terms that align with job responsibilities and required expertise.
+3.2 Jobs_Categorization: Categorizing jobs into specific roles based on keywords in the job titles. This helps in classifying jobs into roles such as Fullstack Developer, Backend Developer, etc., based on the presence of key terms that align with job responsibilities and required expertise.
 
-    3.3 Seniority: Assigning seniority levels based on the experience required as indicated in job titles and descriptions. This categorization differentiates between senior, medior, and junior roles, aiding in the segmentation of job market data based on career level.
+3.3 Seniority: Assigning seniority levels based on the experience required as indicated in job titles and descriptions. This categorization differentiates between senior, medior, and junior roles, aiding in the segmentation of job market data based on career level.
 ### 3.1 Skills_for_Positions
 Purpose: Extract and match skills from job ads to a predefined skills list.
 Operation:
